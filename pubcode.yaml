@@ -1,0 +1,11 @@
+version: 1
+data_management_roles:
+  product_owner: Jen Reiher
+product_information:
+  ministry: CITZ
+  product_acronym: DHUB
+  product_description: This is a demo of WIP
+  product_name: DevHub
+  program_area: DEVX
+product_technology_information:
+  hosting_platforms: Private-Cloud-Openshift
