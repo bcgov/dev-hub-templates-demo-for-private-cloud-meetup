@@ -15,4 +15,4 @@ metadata:
 spec:
   type: documentation
   lifecycle: experimental
-  owner: ${{ default(parameters.owner, "developer-experience", true) }}
+  owner: developer-experience
